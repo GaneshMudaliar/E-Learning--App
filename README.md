@@ -1,8 +1,12 @@
-# React + Vite
+# 📚 eLearning App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive and responsive eLearning platform built using **React** and **Tailwind CSS**. This app allows users to browse, enroll, and engage with online courses.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 📖 Course listing and detail pages
+- 👤 User authentication (login/register)
+- 🎥 Video lessons
+- 📝 Quizzes and assessments
+- 🧠 Progress tracking
+- 📱 Responsive design with Tailwind CSS
