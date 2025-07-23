@@ -4,7 +4,7 @@ import { IoClose } from 'react-icons/io5';
 import { Link } from 'react-router-dom';
 
 
-
+// nav menu
 
 const NavbarMenu = [
   {
@@ -30,6 +30,7 @@ const NavbarMenu = [
 
 
 const Navbar = () => {
+  
 const [isOpen , setIsOpen] =useState(false);
 
   return (
